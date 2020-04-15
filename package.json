@@ -1,0 +1,19 @@
+{
+  "name": "api.mercafood",
+  "version": "1.0.0",
+  "description": "App Mercado de Comidas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detarso7/api.MercaFood.git"
+  },
+  "author": "Saulo de Tarso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/detarso7/api.MercaFood/issues"
+  },
+  "homepage": "https://github.com/detarso7/api.MercaFood#readme"
+}
