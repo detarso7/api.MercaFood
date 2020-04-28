@@ -1,7 +1,7 @@
 {
   "name": "api.mercafood",
   "version": "1.0.0",
-  "description": "App Mercado de Comidas",
+  "description": "App Delivery para Supermercados",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/detarso7/api.MercaFood/issues"
   },
-  "homepage": "https://github.com/detarso7/api.MercaFood#readme"
+  "homepage": "https://github.com/detarso7/api.MercaFood#readme",
+  "keywords": [
+    "delivery",
+    "supermercado",
+    "comida",
+    "entrega",
+    "food",
+    "compras"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
